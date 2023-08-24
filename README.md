@@ -1,4 +1,4 @@
-# Speech_Based_Captcha_Solver
+# Speech based Captcha Solver
 
 ## To Run:
 
